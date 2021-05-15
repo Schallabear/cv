@@ -1,4 +1,4 @@
-## Clonned from https://github.com/nstrayer/cv
+## Cloned from https://github.com/nstrayer/cv
 
 ## My pagedown rendered CV
 
